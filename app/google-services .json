@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088783185715",
+    "firebase_url": "https://myubertrialapp-4ea1d.firebaseio.com",
+    "project_id": "myubertrialapp-4ea1d",
+    "storage_bucket": "myubertrialapp-4ea1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088783185715:android:2df9e41467eb2faf2bb046",
+        "android_client_info": {
+          "package_name": "ELALAY.Inc.myUberTrialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088783185715-4nlhu3tu4hic8us4t2s22levq5345ssh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ELALAY.Inc.myUberTrialApp",
+            "certificate_hash": "1d1f2f6c9756b5cca57ae04900bfde4b1eb62b35"
+          }
+        },
+        {
+          "client_id": "1088783185715-gjp6865uh4ntkj6snhb88l40oj8k66qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfwWBhBM4fnJY_hU6dAcx9h01GdtA9aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088783185715-gjp6865uh4ntkj6snhb88l40oj8k66qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
